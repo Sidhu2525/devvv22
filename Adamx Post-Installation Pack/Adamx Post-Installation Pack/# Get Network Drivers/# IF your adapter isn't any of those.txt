@@ -1,0 +1,5 @@
+If your adapter isn't any of those then search google for your adapter name till you find the drivers.
+
+Worst case scenario if you still can't find the drivers download CPU-Z from this link (http://www.filedropper.com/cpu-z)
+and open it then go to Mainboard tab and beside model you are going to see your motherboard name, Search that up on
+google and type *DRIVERS* beside it and then click the official link (It should be obvious) and download the Wifi or Ethernet driver from there.
